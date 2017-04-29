@@ -13,7 +13,8 @@ Overview
 ..  youtube:: orMXVby-tSI
     :width: 100%
     
-Gazebo is a well-known and respected robotics simulator. Also Gazebo is well-known as official DARPA Virtual Robotics Simulator.C
+Gazebo is a well-known and respected robotics simulator. Also Gazebo is well-known as official DARPA Virtual Robotics Challenge simulator.
+
 But, no current release has built-in support for ArduPilot(Precvious PRs for built-in support didn't merged as of April-2017).
 New instruction for setting up gazebo simulator for STIL is available at https://github.com/swiftgust/ardupilot_gazebo. 
 This wiki will be updated more gazebo support becomes available.
